@@ -1,4 +1,4 @@
-#Cypress
+# Cypress
 ## Homework: Automatic testing of Wikipedia search
 
 Your task is to create a simple automatic e2e (end to end) test with testing tool Cypress
